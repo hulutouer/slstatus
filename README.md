@@ -1,5 +1,5 @@
 ## 预览
-![screenslstatus.png]()
+![screenslstatus.png](https://github.com/hulutouer/slstatus/blob/main/slstatus-preview.png)
 
 ## 下载
 ```bash
